@@ -4,6 +4,8 @@ You've been hired on as a backend developer for a new startup called WeLoveMovie
 
 home.png
 
+
+![Preview](images/WeLoveMovies.png)
 This project is designed to test your ability to both build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate you can do the following:
 
 Install and use common middleware packages.
