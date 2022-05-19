@@ -35,7 +35,7 @@ Visit the following repository if you would like to see your project connected t
 
 Starter Code: WeLoveMovies
 Instructions are included there on how to get the project up and running.
-![Preview](images/WeLoveMovies1.png)
+![Preview](images/WeLoveMovies1.png) 
 Running tests
 To run the tests, you can run the following command:
 
