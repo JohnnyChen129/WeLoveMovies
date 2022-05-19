@@ -1,4 +1,4 @@
-working link to Demo  https://we-love-movies-client-three.vercel.app/
+
 
 # WeLoveMovies Back end
 Project: WeLoveMovies
@@ -6,6 +6,7 @@ You've been hired on as a backend developer for a new startup called WeLoveMovie
 
 home.png
 
+Link to working site.  https://we-love-movies-client-three.vercel.app/
 
 ![Preview](images/WeLoveMovies.png)
 This project is designed to test your ability to both build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate you can do the following:
@@ -26,7 +27,6 @@ You will not need to make any edits to HTML or CSS for this project.
 
 Project setup
 Follow the instructions below to get this project up and running on your own machine:
-
 Download the Qualified assessment files to your computer.
 Run npm install to install the project.
 Some helper scripts have been added to the package.json file. You are welcome to modify these as you wish.
@@ -35,7 +35,7 @@ Visit the following repository if you would like to see your project connected t
 
 Starter Code: WeLoveMovies
 Instructions are included there on how to get the project up and running.
-
+![Preview](images/WeLoveMovies1.png)
 Running tests
 To run the tests, you can run the following command:
 
